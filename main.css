@@ -1,0 +1,21 @@
+.conteiner {
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('img/lighthouse-5286823_1920.jpg');
+  background-repeat: no-repeat;
+  object-fit: cover;
+  height: 1000px;
+}
+
+.hours,
+.minutes,
+.seconds {
+  margin-left: 10px;
+  font-size: 30px;
+  padding: 5px;
+  background-color: blanchedalmond;
+}
